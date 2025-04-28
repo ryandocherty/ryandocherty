@@ -15,7 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryandocherty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandocherty&hide_border=true&theme=dracula&area=true" height="350" alt="activity-graph graph"  />
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryandocherty/ryandocherty/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryandocherty/ryandocherty/output/github-contribution-grid-snake.svg">
