@@ -16,7 +16,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandocherty&hide_border=true&theme=dracula&area=true" height="350" alt="activity-graph graph"  />
 </div>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryandocherty/ryandocherty/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryandocherty/ryandocherty/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryandocherty/ryandocherty/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
