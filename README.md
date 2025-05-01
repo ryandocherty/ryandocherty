@@ -73,8 +73,7 @@
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opengl/5586A4.png" height="40" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/apireference/files/images/PhysXlogo.png" height="40" alt="physx logo"  />
+  <img width="12" /> <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/12/PhysX.png" height="40" alt="physx logo"  />
 
   ###
   
