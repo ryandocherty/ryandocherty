@@ -5,7 +5,7 @@
 
 <p align="left">🖥️ Breaking software since 2011
 <br>⌚ For the last two years, I've been leaning JavaScript & TypeScript
-<br>📚 I'm currently learning Playwright with TypeScript
+<br>📚 I'm currently focusing on Playwright with TypeScript
 <br>🎯 My goal is to become a QA Automation expert
 </p>
 
