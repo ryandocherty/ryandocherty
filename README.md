@@ -19,7 +19,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ryandocherty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ryandocherty&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ryandocherty&locale=en&mode=daily&theme=dracula&hide_border=true" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryandocherty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
 </div>
 <picture>
