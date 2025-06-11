@@ -9,6 +9,8 @@
 <br>🎯 My goal is to become a QA Automation expert
 </p>
 
+![](https://komarev.com/ghpvc/?username=ryandocherty)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ryansdocherty/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
