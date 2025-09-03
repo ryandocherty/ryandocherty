@@ -1,5 +1,5 @@
 <h2 align="left">💫 About Me:</h2>
-<h4 align="left">Hi! I'm Ryan, a highly skilled manual QA Tester with an educational background in games programming and almost 9 years of experience in the gaming industry. I'm eager to embrace new engaging challenges and expand my expertise into QA Automation.</h4>
+<h4 align="left">Hi! I'm Ryan, a highly skilled manual QA Tester with an educational background in games programming and over 9 years of professional QA experience. I'm eager to embrace new engaging challenges and expand my expertise into QA Automation.</h4>
 
  
 
