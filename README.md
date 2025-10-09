@@ -50,40 +50,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-
-  ###
-
-  <h2 align="left">I have previous experience with</h2>
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opengl/5586A4.png" height="40" alt="opengl logo"  />
-  <img width="12" /> <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/12/PhysX.png" height="40" alt="physx logo"  />
-
-  ###
-  
-  <h2 align="left">I also have experience with</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://iconape.com/wp-content/png_logo_vector/monday.png" height="40" alt="monday logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
 </div>
 
 ###
